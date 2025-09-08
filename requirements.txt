@@ -6,7 +6,6 @@ numpy
 pandas
 scipy
 scikit-learn
-matplotlib
 gensim
 transformers
 tqdm
@@ -43,6 +42,7 @@ huggingface_hub
 soundfile
 openai-whisper
 sentencepiece
+faiss-cpu
 torch
 torchvision
 torchaudio
